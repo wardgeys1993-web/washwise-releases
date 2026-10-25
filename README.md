@@ -20,6 +20,8 @@ Choose the dial language and use the separate sticker or panel-photo controls. M
 
 From version 0.7.0, optionally add your detergent and fabric softener with front-label and dosing-panel photos. Local OCR suggests details for review. The wash plan uses the confirmed products for suitability, dosing and softener advice. Exact quantities require a confirmed pack row that matches the current load and label conditions. Unmatched rows do not produce guessed or scaled amounts. Product profiles stay on the device, and photos and raw label text are discarded when the editor closes.
 
+Version 0.7.1 fixes machine-photo setup. Sticker and dial uploads now have separate previews, progress and text review. Dial matches stay visible before a model is entered. Sticker OCR uses two layouts, preserves spaced revision suffixes and asks for a missing brand. Supported images from phone pickers with a missing MIME type are checked by their file headers. Same-file retries start a fresh scan.
+
 No account is required. Google sign-in, cloud sync and ads are not connected in this preview. No paid API is used. Update checks contact GitHub. Internet access is needed for new online manuals and update checks.
 
 Validation includes a disposable Android emulator, synthetic fixtures and supplied-file appliance OCR/reupload checks. The new product flow has been checked with synthetic front and dosing labels; real-pack recognition still needs testing. Physical-phone camera capture, update installation on a physical phone and physical laundry outcomes remain unverified. Use your actual item's care label, product label and machine manual.
