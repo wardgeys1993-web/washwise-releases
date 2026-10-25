@@ -22,6 +22,8 @@ From version 0.7.0, optionally add your detergent and fabric softener with front
 
 Version 0.7.1 fixes machine-photo setup. Sticker and dial uploads now have separate previews, progress and text review. Dial matches stay visible before a model is entered. Sticker OCR uses two layouts, preserves spaced revision suffixes and asks for a missing brand. Supported images from phone pickers with a missing MIME type are checked by their file headers. Same-file retries start a fresh scan.
 
+Version 0.7.2 can recover an official Bosch shared guide when the exact revision page lists no user guide. It checks the matching base product's own documents and labels their scope visibly. Rotated programme tables are read correctly. Reviewed Dutch temperature and standard-capacity limits require the exact document fingerprint; the SpeedPerfect cotton exception is included. Spin guidance uses the displayed programme default when that guide gives no programme-specific numeric limit. Refresh an existing machine through Change machine, Nederlands, Find official manual, then review and confirm it again.
+
 No account is required. Google sign-in, cloud sync and ads are not connected in this preview. No paid API is used. Update checks contact GitHub. Internet access is needed for new online manuals and update checks.
 
 Validation includes a disposable Android emulator, synthetic fixtures and supplied-file appliance OCR/reupload checks. The new product flow has been checked with synthetic front and dosing labels; real-pack recognition still needs testing. Physical-phone camera capture, update installation on a physical phone and physical laundry outcomes remain unverified. Use your actual item's care label, product label and machine manual.
