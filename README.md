@@ -1,4 +1,4 @@
-# WashWise Android test builds
+# Rinselio Android test builds
 
 A free laundry companion for life on your own. Pick what you need to wash, match the visual care symbols, and get a wash plan. The Atlas-inspired interface uses charcoal, amber and clear typography.
 
@@ -8,7 +8,7 @@ Get the APK from [Releases](https://github.com/wardgeys1993-web/washwise-release
 
 ## Updates
 
-In WashWise, open the account icon, scroll to App updates, and tap Check for updates. The app verifies the signed metadata in android-update.json and offers a GitHub download when a newer version exists. Android asks before installing and checks the app's signing identity. Updates installed over the existing app retain its local data. Uninstalling or clearing app data removes the local machine profile and saved plans.
+In Rinselio, open the account icon, scroll to App updates, and tap Check for updates. The app verifies the signed metadata in android-update.json and offers a GitHub download when a newer version exists. Android asks before installing and checks the app's signing identity. Updates installed over the existing app retain its local data. Uninstalling or clearing app data removes the local machine profile and saved plans.
 
 The app does not silently install updates or hash the downloaded APK. SHA256SUMS is included with each release for independent verification. The Play distribution flavour disables this GitHub updater.
 
