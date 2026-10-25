@@ -18,8 +18,10 @@ The basic planner, OCR and saved profiles run on the phone. Photos and raw OCR t
 
 Choose the dial language and use the separate sticker or panel-photo controls. Manual lookups use regional language pages where supported. A model match does not by itself verify a user manual. Missing programmes stay unmapped, and photo labels need review. Realistic laundry artwork uses original generated assets, with no private photo references.
 
+From version 0.7.0, optionally add your detergent and fabric softener with front-label and dosing-panel photos. Local OCR suggests details for review. The wash plan uses the confirmed products for suitability, dosing and softener advice. Exact quantities require a confirmed pack row that matches the current load and label conditions. Unmatched rows do not produce guessed or scaled amounts. Product profiles stay on the device, and photos and raw label text are discarded when the editor closes.
+
 No account is required. Google sign-in, cloud sync and ads are not connected in this preview. No paid API is used. Update checks contact GitHub. Internet access is needed for new online manuals and update checks.
 
-Validation includes a disposable Android emulator, synthetic fixtures and supplied-file OCR/reupload checks. Physical-phone camera capture, update installation on a physical phone and physical laundry outcomes remain unverified. Use your actual item's care label and machine manual.
+Validation includes a disposable Android emulator, synthetic fixtures and supplied-file appliance OCR/reupload checks. The new product flow has been checked with synthetic front and dosing labels; real-pack recognition still needs testing. Physical-phone camera capture, update installation on a physical phone and physical laundry outcomes remain unverified. Use your actual item's care label, product label and machine manual.
 
 This public repository contains downloads and signed update metadata. Application source is kept separately in a private repository. Signing keys are never included here.
