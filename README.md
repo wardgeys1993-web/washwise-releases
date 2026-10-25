@@ -20,6 +20,6 @@ Choose the dial language and use the separate sticker or panel-photo controls. M
 
 No account is required. Google sign-in, cloud sync and ads are not connected in this preview. No paid API is used. Update checks contact GitHub. Internet access is needed for new online manuals and update checks.
 
-Validation uses a disposable Android emulator and clearly marked synthetic model labels. Physical-phone camera testing, real appliance-photo recognition and physical laundry outcomes are not verified. Use your actual item's care label and machine manual.
+Validation includes a disposable Android emulator, synthetic fixtures and supplied-file OCR/reupload checks. Physical-phone camera capture, update installation on a physical phone and physical laundry outcomes remain unverified. Use your actual item's care label and machine manual.
 
 This public repository contains downloads and signed update metadata. Application source is kept separately in a private repository. Signing keys are never included here.
