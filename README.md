@@ -1,10 +1,10 @@
 # Rinselio Android test builds
 
-A free laundry companion for life on your own. Pick what you need to wash, match the visual care symbols, and get a wash plan. The Atlas-inspired interface uses charcoal, amber and clear typography.
+A free laundry companion for everyone. Pick what you need to wash, match the visual care symbols, and get a wash plan. The Atlas-inspired interface uses charcoal, amber and clear typography.
 
 ## Install
 
-Get the APK from [Releases](https://github.com/wardgeys1993-web/washwise-releases/releases) on an Android 8 or newer phone. Open the file and review Android's installation prompt. This is a prerelease for owner testing, not a Play Store release.
+Get the APK from [Releases](https://github.com/wardgeys1993-web/washwise-releases/releases) on an Android 8 or newer phone. Open the file and review Android's installation prompt. This is a prerelease for testing. Play Store distribution is pending.
 
 ## Updates
 
